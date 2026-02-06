@@ -1,14 +1,14 @@
 ## Author
 
 Oscar Riveros  
-Independent researcher, artist, and polymath.
+Independent Researcher, Artist, and Polymath.
 
 ### Links
 - Code: https://github.com/maxtuno
 - Research: https://independent.academia.edu/oarr
-- Substack: https://substack.com/@aspieofficial
 - YouTube: https://www.youtube.com/@aspieofficial
 - CV / Portfolio: https://artfacts.net/artist/oscar-riveros
+- IG: https://www.instagram.com/aspieofficial
 - Music:
 
     Oscar Riveros: 
@@ -19,3 +19,4 @@ Independent researcher, artist, and polymath.
 
     3I 4TL4S:
     https://open.spotify.com/artist/2rAhAtUFbjP40WkZ4yY6xi?si=sZXBeDfISO-PROlYJn7I6Q
+

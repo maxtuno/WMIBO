@@ -1,7 +1,7 @@
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_000.wmibo  1>cases/case_000.txt 
+wmibo.exe --verbose 3 cases/case_000.wmibo  1>cases/case_000.txt 
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_000.wmibo --sol cases/case_000.txt --show-soft 
+python validate_wmibo_solution.py cases/case_000.wmibo --sol cases/case_000.txt --show-soft 
 WMIBO VALIDATION REPORT
   instance: cases/case_000.wmibo
   status:   OPTIMUM FOUND
@@ -15,9 +15,9 @@ WMIBO VALIDATION REPORT
 
 RESULT: OK
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_001.wmibo  1>cases/case_001.txt 
+wmibo.exe --verbose 3 cases/case_001.wmibo  1>cases/case_001.txt 
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_001.wmibo --sol cases/case_001.txt --show-soft 
+python validate_wmibo_solution.py cases/case_001.wmibo --sol cases/case_001.txt --show-soft 
 WMIBO VALIDATION REPORT
   instance: cases/case_001.wmibo
   status:   OPTIMUM FOUND
@@ -31,9 +31,9 @@ WMIBO VALIDATION REPORT
 
 RESULT: OK
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_002.wmibo  1>cases/case_002.txt 
+wmibo.exe --verbose 3 cases/case_002.wmibo  1>cases/case_002.txt 
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_002.wmibo --sol cases/case_002.txt --show-soft 
+python validate_wmibo_solution.py cases/case_002.wmibo --sol cases/case_002.txt --show-soft 
 WMIBO VALIDATION REPORT
   instance: cases/case_002.wmibo
   status:   OPTIMUM FOUND
@@ -47,9 +47,9 @@ WMIBO VALIDATION REPORT
 
 RESULT: OK
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_003.wmibo  1>cases/case_003.txt 
+wmibo.exe --verbose 3 cases/case_003.wmibo  1>cases/case_003.txt 
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_003.wmibo --sol cases/case_003.txt --show-soft 
+python validate_wmibo_solution.py cases/case_003.wmibo --sol cases/case_003.txt --show-soft 
 WMIBO VALIDATION REPORT
   instance: cases/case_003.wmibo
   status:   OPTIMUM FOUND
@@ -63,9 +63,9 @@ WMIBO VALIDATION REPORT
 
 RESULT: OK
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_004.wmibo  1>cases/case_004.txt 
+wmibo.exe --verbose 3 cases/case_004.wmibo  1>cases/case_004.txt 
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_004.wmibo --sol cases/case_004.txt --show-soft 
+python validate_wmibo_solution.py cases/case_004.wmibo --sol cases/case_004.txt --show-soft 
 WMIBO VALIDATION REPORT
   instance: cases/case_004.wmibo
   status:   OPTIMUM FOUND
@@ -79,9 +79,9 @@ WMIBO VALIDATION REPORT
 
 RESULT: OK
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_005.wmibo  1>cases/case_005.txt 
+wmibo.exe --verbose 3 cases/case_005.wmibo  1>cases/case_005.txt 
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_005.wmibo --sol cases/case_005.txt --show-soft 
+python validate_wmibo_solution.py cases/case_005.wmibo --sol cases/case_005.txt --show-soft 
 WMIBO VALIDATION REPORT
   instance: cases/case_005.wmibo
   status:   OPTIMUM FOUND
@@ -95,9 +95,9 @@ WMIBO VALIDATION REPORT
 
 RESULT: OK
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_006.wmibo  1>cases/case_006.txt 
+wmibo.exe --verbose 3 cases/case_006.wmibo  1>cases/case_006.txt 
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_006.wmibo --sol cases/case_006.txt --show-soft 
+python validate_wmibo_solution.py cases/case_006.wmibo --sol cases/case_006.txt --show-soft 
 WMIBO VALIDATION REPORT
   instance: cases/case_006.wmibo
   status:   OPTIMUM FOUND
@@ -111,9 +111,9 @@ WMIBO VALIDATION REPORT
 
 RESULT: OK
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_007.wmibo  1>cases/case_007.txt 
+wmibo.exe --verbose 3 cases/case_007.wmibo  1>cases/case_007.txt 
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_007.wmibo --sol cases/case_007.txt --show-soft 
+python validate_wmibo_solution.py cases/case_007.wmibo --sol cases/case_007.txt --show-soft 
 WMIBO VALIDATION REPORT
   instance: cases/case_007.wmibo
   status:   OPTIMUM FOUND
@@ -127,9 +127,9 @@ WMIBO VALIDATION REPORT
 
 RESULT: OK
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_008.wmibo  1>cases/case_008.txt 
+wmibo.exe --verbose 3 cases/case_008.wmibo  1>cases/case_008.txt 
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_008.wmibo --sol cases/case_008.txt --show-soft 
+python validate_wmibo_solution.py cases/case_008.wmibo --sol cases/case_008.txt --show-soft 
 WMIBO VALIDATION REPORT
   instance: cases/case_008.wmibo
   status:   OPTIMUM FOUND
@@ -143,9 +143,9 @@ WMIBO VALIDATION REPORT
 
 RESULT: OK
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_009.wmibo  1>cases/case_009.txt 
+wmibo.exe --verbose 3 cases/case_009.wmibo  1>cases/case_009.txt 
 
-(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_009.wmibo --sol cases/case_009.txt --show-soft 
+python validate_wmibo_solution.py cases/case_009.wmibo --sol cases/case_009.txt --show-soft 
 WMIBO VALIDATION REPORT
   instance: cases/case_009.wmibo
   status:   OPTIMUM FOUND

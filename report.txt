@@ -1,0 +1,160 @@
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_000.wmibo  1>cases/case_000.txt 
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_000.wmibo --sol cases/case_000.txt --show-soft 
+WMIBO VALIDATION REPORT
+  instance: cases/case_000.wmibo
+  status:   OPTIMUM FOUND
+  o(reported): 0
+  lin_obj:  0
+  penalty:  0   (soft_violations=0)
+  total_min:        0
+  total_internal:   0
+  total_max_orig:   0
+  best_match: total_min  value=0  abs_err=0
+
+RESULT: OK
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_001.wmibo  1>cases/case_001.txt 
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_001.wmibo --sol cases/case_001.txt --show-soft 
+WMIBO VALIDATION REPORT
+  instance: cases/case_001.wmibo
+  status:   OPTIMUM FOUND
+  o(reported): 3.74747
+  lin_obj:  3.74747
+  penalty:  0   (soft_violations=0)
+  total_min:        3.74747
+  total_internal:   3.74747
+  total_max_orig:   3.74747
+  best_match: total_min  value=3.74747  abs_err=0
+
+RESULT: OK
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_002.wmibo  1>cases/case_002.txt 
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_002.wmibo --sol cases/case_002.txt --show-soft 
+WMIBO VALIDATION REPORT
+  instance: cases/case_002.wmibo
+  status:   OPTIMUM FOUND
+  o(reported): 0
+  lin_obj:  0
+  penalty:  0   (soft_violations=0)
+  total_min:        0
+  total_internal:   0
+  total_max_orig:   0
+  best_match: total_min  value=0  abs_err=0
+
+RESULT: OK
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_003.wmibo  1>cases/case_003.txt 
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_003.wmibo --sol cases/case_003.txt --show-soft 
+WMIBO VALIDATION REPORT
+  instance: cases/case_003.wmibo
+  status:   OPTIMUM FOUND
+  o(reported): 0
+  lin_obj:  0
+  penalty:  0   (soft_violations=0)
+  total_min:        0
+  total_internal:   0
+  total_max_orig:   0
+  best_match: total_min  value=0  abs_err=0
+
+RESULT: OK
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_004.wmibo  1>cases/case_004.txt 
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_004.wmibo --sol cases/case_004.txt --show-soft 
+WMIBO VALIDATION REPORT
+  instance: cases/case_004.wmibo
+  status:   OPTIMUM FOUND
+  o(reported): 0
+  lin_obj:  0
+  penalty:  0   (soft_violations=0)
+  total_min:        0
+  total_internal:   0
+  total_max_orig:   0
+  best_match: total_min  value=0  abs_err=0
+
+RESULT: OK
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_005.wmibo  1>cases/case_005.txt 
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_005.wmibo --sol cases/case_005.txt --show-soft 
+WMIBO VALIDATION REPORT
+  instance: cases/case_005.wmibo
+  status:   OPTIMUM FOUND
+  o(reported): 0
+  lin_obj:  0
+  penalty:  0   (soft_violations=0)
+  total_min:        0
+  total_internal:   0
+  total_max_orig:   0
+  best_match: total_min  value=0  abs_err=0
+
+RESULT: OK
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_006.wmibo  1>cases/case_006.txt 
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_006.wmibo --sol cases/case_006.txt --show-soft 
+WMIBO VALIDATION REPORT
+  instance: cases/case_006.wmibo
+  status:   OPTIMUM FOUND
+  o(reported): 0
+  lin_obj:  0
+  penalty:  0   (soft_violations=0)
+  total_min:        0
+  total_internal:   0
+  total_max_orig:   0
+  best_match: total_min  value=0  abs_err=0
+
+RESULT: OK
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_007.wmibo  1>cases/case_007.txt 
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_007.wmibo --sol cases/case_007.txt --show-soft 
+WMIBO VALIDATION REPORT
+  instance: cases/case_007.wmibo
+  status:   OPTIMUM FOUND
+  o(reported): 0
+  lin_obj:  0
+  penalty:  0   (soft_violations=0)
+  total_min:        0
+  total_internal:   0
+  total_max_orig:   0
+  best_match: total_min  value=0  abs_err=0
+
+RESULT: OK
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_008.wmibo  1>cases/case_008.txt 
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_008.wmibo --sol cases/case_008.txt --show-soft 
+WMIBO VALIDATION REPORT
+  instance: cases/case_008.wmibo
+  status:   OPTIMUM FOUND
+  o(reported): 9.8773
+  lin_obj:  8.8773
+  penalty:  1   (soft_violations=1)
+  total_min:        9.8773
+  total_internal:   9.8773
+  total_max_orig:   7.8773
+  best_match: total_min  value=9.8773  abs_err=0
+
+RESULT: OK
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>wmibo.exe --verbose 3 cases/case_009.wmibo  1>cases/case_009.txt 
+
+(venv) C:\Users\river\Documents\R\Development\SLIMEX>python validate_wmibo_solution.py cases/case_009.wmibo --sol cases/case_009.txt --show-soft 
+WMIBO VALIDATION REPORT
+  instance: cases/case_009.wmibo
+  status:   OPTIMUM FOUND
+  o(reported): 0
+  lin_obj:  0
+  penalty:  0   (soft_violations=0)
+  total_min:        0
+  total_internal:   0
+  total_max_orig:   0
+  best_match: total_min  value=0  abs_err=0
+
+RESULT: OK

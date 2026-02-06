@@ -1,0 +1,274 @@
+c WMIBO generated instance mode=plant seed=4230611254
+p wmibo 100 50 50 35 10 25
+
+var b 1 [0,1]
+var b 2 [0,1]
+var b 3 [0,1]
+var b 4 [0,1]
+var b 5 [0,1]
+var b 6 [0,1]
+var b 7 [0,1]
+var b 8 [0,1]
+var b 9 [0,1]
+var b 10 [0,1]
+var b 11 [0,1]
+var b 12 [0,1]
+var b 13 [0,1]
+var b 14 [0,1]
+var b 15 [0,1]
+var b 16 [0,1]
+var b 17 [0,1]
+var b 18 [0,1]
+var b 19 [0,1]
+var b 20 [0,1]
+var b 21 [0,1]
+var b 22 [0,1]
+var b 23 [0,1]
+var b 24 [0,1]
+var b 25 [0,1]
+var b 26 [0,1]
+var b 27 [0,1]
+var b 28 [0,1]
+var b 29 [0,1]
+var b 30 [0,1]
+var b 31 [0,1]
+var b 32 [0,1]
+var b 33 [0,1]
+var b 34 [0,1]
+var b 35 [0,1]
+var b 36 [0,1]
+var b 37 [0,1]
+var b 38 [0,1]
+var b 39 [0,1]
+var b 40 [0,1]
+var b 41 [0,1]
+var b 42 [0,1]
+var b 43 [0,1]
+var b 44 [0,1]
+var b 45 [0,1]
+var b 46 [0,1]
+var b 47 [0,1]
+var b 48 [0,1]
+var b 49 [0,1]
+var b 50 [0,1]
+var b 51 [0,1]
+var b 52 [0,1]
+var b 53 [0,1]
+var b 54 [0,1]
+var b 55 [0,1]
+var b 56 [0,1]
+var b 57 [0,1]
+var b 58 [0,1]
+var b 59 [0,1]
+var b 60 [0,1]
+var b 61 [0,1]
+var b 62 [0,1]
+var b 63 [0,1]
+var b 64 [0,1]
+var b 65 [0,1]
+var b 66 [0,1]
+var b 67 [0,1]
+var b 68 [0,1]
+var b 69 [0,1]
+var b 70 [0,1]
+var b 71 [0,1]
+var b 72 [0,1]
+var b 73 [0,1]
+var b 74 [0,1]
+var b 75 [0,1]
+var b 76 [0,1]
+var b 77 [0,1]
+var b 78 [0,1]
+var b 79 [0,1]
+var b 80 [0,1]
+var b 81 [0,1]
+var b 82 [0,1]
+var b 83 [0,1]
+var b 84 [0,1]
+var b 85 [0,1]
+var b 86 [0,1]
+var b 87 [0,1]
+var b 88 [0,1]
+var b 89 [0,1]
+var b 90 [0,1]
+var b 91 [0,1]
+var b 92 [0,1]
+var b 93 [0,1]
+var b 94 [0,1]
+var b 95 [0,1]
+var b 96 [0,1]
+var b 97 [0,1]
+var b 98 [0,1]
+var b 99 [0,1]
+var b 100 [0,1]
+var i 1 [0,8]
+var i 2 bin
+var i 3 [0,6]
+var i 4 [0,6]
+var i 5 [0,6]
+var i 6 [0,2]
+var i 7 [0,10]
+var i 8 bin
+var i 9 [0,8]
+var i 10 bin
+var i 11 [0,3]
+var i 12 bin
+var i 13 [0,6]
+var i 14 bin
+var i 15 bin
+var i 16 [0,9]
+var i 17 [0,8]
+var i 18 [0,4]
+var i 19 [0,9]
+var i 20 [0,2]
+var i 21 bin
+var i 22 bin
+var i 23 [0,9]
+var i 24 [0,9]
+var i 25 [0,5]
+var i 26 bin
+var i 27 [0,5]
+var i 28 bin
+var i 29 [0,7]
+var i 30 bin
+var i 31 bin
+var i 32 [0,5]
+var i 33 [0,5]
+var i 34 [0,4]
+var i 35 [0,10]
+var i 36 bin
+var i 37 [0,10]
+var i 38 [0,6]
+var i 39 bin
+var i 40 bin
+var i 41 bin
+var i 42 bin
+var i 43 bin
+var i 44 [0,6]
+var i 45 [0,4]
+var i 46 [0,9]
+var i 47 [0,9]
+var i 48 [0,2]
+var i 49 bin
+var i 50 [0,2]
+var r 1 [5.87363,6.14128]
+var r 2 [0.503402,8.07436]
+var r 3 [7.67788,9.20961]
+var r 4 [1.54253,9.39334]
+var r 5 free
+var r 6 [4.73405,9.9]
+var r 7 [1.95647,5.50508]
+var r 8 [6.19453,7.4649]
+var r 9 [2.11923,2.28163]
+var r 10 [0.830776,5.63806]
+var r 11 [3.94863,4.98945]
+var r 12 [4.63497,4.9327]
+var r 13 [0.330954,7.04498]
+var r 14 free
+var r 15 [3.74747,7.96604]
+var r 16 [1.30478,2.9234]
+var r 17 [2.6588,6.94854]
+var r 18 [2.92956,9.4371]
+var r 19 [9.037,9.79684]
+var r 20 [3.48875,6.91471]
+var r 21 [0.756307,0.945819]
+var r 22 [5.34594,6.67041]
+var r 23 [6.89588,8.58854]
+var r 24 [2.50519,9.75376]
+var r 25 [5.40178,8.52526]
+var r 26 [5.04222,7.57684]
+var r 27 [6.38554,7.56062]
+var r 28 [0.423207,2.48718]
+var r 29 [7.76552,8.3545]
+var r 30 [3.07992,9.72887]
+var r 31 [3.88622,9.54792]
+var r 32 [3.01492,3.78519]
+var r 33 [5.29086,5.66025]
+var r 34 [2.61432,7.96326]
+var r 35 [0.964608,3.29056]
+var r 36 free
+var r 37 [0.719298,8.74669]
+var r 38 [5.89648,6.43065]
+var r 39 [1.61019,8.0709]
+var r 40 [1.71616,3.21287]
+var r 41 [6.00264,8.04268]
+var r 42 [1.56081,4.19523]
+var r 43 [3.48641,5.2997]
+var r 44 [8.68246,9.55887]
+var r 45 free
+var r 46 [0.138951,4.17557]
+var r 47 [1.40936,3.3614]
+var r 48 [4.24224,8.77601]
+var r 49 [0.892878,7.1292]
+var r 50 [5.49695,8.49247]
+
+begin cnf
+  cl hard b31 b1 ~b2 b14 0
+  cl hard ~b72 b79 b92 0
+  cl hard b25 b7 0
+  cl hard ~b4 ~b56 b32 b18 0
+  cl hard b31 ~b50 ~b69 ~b24 0
+  cl hard b79 ~b36 0
+  cl hard b19 b51 b56 b2 0
+  cl hard ~b57 ~b24 ~b74 0
+  cl hard b80 b63 0
+  cl hard ~b86 b58 0
+  cl soft ~b41 ~b9 ~b52 0
+  cl soft ~b94 ~b68 ~b71 0
+  cl soft b9 0
+  cl soft ~b87 ~b58 0
+  cl soft ~b67 b11 b66 ~b18 0
+  cl soft b73 b41 b45 0
+  cl soft b25 b15 b68 0
+  cl soft b16 0
+  cl soft b16 ~b44 0
+  cl soft b72 b79 ~b36 ~b57 0
+  cl soft ~b59 ~b23 ~b97 b84 0
+  cl soft b87 b95 ~b35 ~b8 0
+  cl soft b50 b15 0
+  cl soft b34 b32 0
+  cl soft ~b91 ~b74 b21 b68 0
+  cl soft b11 ~b89 0
+  cl soft ~b22 ~b16 ~b25 b35 0
+  cl soft ~b54 b91 b44 b53 0
+  cl soft ~b58 ~b44 ~b63 0
+  cl soft ~b53 ~b24 ~b58 ~b91 0
+  cl soft ~b54 b4 0
+  cl soft b49 0
+  cl soft b93 ~b19 ~b55 ~b78 0
+  cl soft ~b24 0
+  cl soft ~b26 ~b83 0
+end
+
+begin lin
+  lc C1 <= 7 : 2 b53 -2 i12 -1 r21
+  lc C2 <= 6 : -2 i44 -1 r10 -3 b31 -1 b94 2 i14
+  lc C3 <= 17.4233 : -1 r21 3 r25 -1 r4
+  lc C4 >= 0 : 1 b53
+  lc C5 <= 1 : 3 r1 -3 r31
+  lc C6 = 0 : 2 r14 2 i45 3 r4 1 b24
+  lc C7 <= 4 : 1 b83 -1 r49 -3 i26
+  lc C8 = -1 : -1 i15
+  lc C9 <= 7 : -3 i10 1 i27
+  lc C10 <= 10 : -3 r43 -2 i32 -2 r12 2 r10
+end
+
+begin ind
+  ind ~b92 => C10
+  ind b61 => C1
+  ind b59 => C6
+  ind b81 => C5
+  ind b97 => C4
+  ind b69 => C3
+  ind b46 => C2
+  ind b100 => C8
+  ind ~b49 => C9
+  ind b54 => C7
+end
+
+begin obj
+  obj min : lin 1 r15 1 i25 1 b67
+end
+
+opt feas_tol 1e-8
+opt int_tol 1e-6

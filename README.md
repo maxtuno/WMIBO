@@ -252,7 +252,7 @@ obj max : lin <coef> <var> ...
 El solver minimiza/maximiza:
 
 $$
-\text{ObjLin}(b,i,r);+;\sum_{j\in\text{soft}} w_j\cdot v_j
+\text{ObjLin}(b,i,r) + \sum_{j\in\text{soft}} w_j\cdot v_j
 $$
 
 donde (v_j) es el indicador implícito de violación de la restricción soft (j).

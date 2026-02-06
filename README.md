@@ -1,6 +1,8 @@
 # Especificación WMIBO v1.0
 ### Formato nativo de SATX (y como contrato estable para `wmibo` solver). 
 
+[SATX: Modelado y Decisión Formal en Sistemas Wicked - SAT, #SAT, Weighted MaxSAT y MIP](https://www.academia.edu/145768932/SATX_Modelado_y_Decisi%C3%B3n_Formal_en_Sistemas_Wicked_SAT_SAT_Weighted_MaxSAT_y_MIP)
+
 ---
 
 # WMIBO v1.0 — SATX Native Hybrid Optimization Format
